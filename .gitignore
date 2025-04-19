@@ -25,3 +25,8 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+_posts/YYYY-MM-DD-TITLE.EXTENSION
+
+# Skip Obsidian Config Files
+**/.obsidian/*
+!**/.obsidian/hotkeys.json
