@@ -26,7 +26,7 @@ package-lock.json
 _sass/vendors
 assets/js/dist
 _posts/YYYY-MM-DD-TITLE.EXTENSION
-_posts/Commands
+_posts/Commands.md
 
 # Skip Obsidian Config Files
 **/.obsidian/*
