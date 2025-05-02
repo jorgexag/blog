@@ -31,3 +31,6 @@ _posts/Commands.md
 # Skip Obsidian Config Files
 **/.obsidian/*
 !**/.obsidian/hotkeys.json
+
+# Ignore MacOS finder configs.
+**/.DS_Store
